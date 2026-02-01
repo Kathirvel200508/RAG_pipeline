@@ -1,4 +1,4 @@
-### Legal RAG Pipeline
+# Legal RAG Pipeline
 ## Description
 
 - A Retrieval-Augmented Generation (RAG) pipeline for legal documents.
